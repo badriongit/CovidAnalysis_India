@@ -1,0 +1,39 @@
+State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Category
+Total,37257,10021,1223,26009,02-05-2020 06:34,TT,
+Maharashtra,11506,1879,485,9142,01-05-2020 23:03,MH,Very High
+Gujarat,4721,736,236,3749,01-05-2020 21:10,GJ,Medium
+Delhi,3738,1167,61,2510,01-05-2020 21:22,DL,Low
+Madhya Pradesh,2715,524,145,2046,01-05-2020 21:52,MP,Low
+Rajasthan,2666,1116,62,1488,01-05-2020 22:12,RJ,Low
+Tamil Nadu,2526,1312,28,1186,01-05-2020 19:22,TN,Low
+Uttar Pradesh,2328,654,42,1632,01-05-2020 22:45,UP,Low
+Andhra Pradesh,1463,403,33,1027,01-05-2020 13:11,AP,Very Low
+Telangana,1044,464,28,552,01-05-2020 20:12,TG,Very Low
+West Bengal,795,139,33,623,01-05-2020 09:01,WB,Very Low
+Jammu and Kashmir,639,247,8,384,01-05-2020 18:02,JK,Very Low
+Karnataka,589,251,22,315,01-05-2020 18:02,KA,Very Low
+Kerala,498,392,4,102,01-05-2020 17:32,KL,Very Low
+Bihar,466,98,3,365,02-05-2020 06:34,BR,Very Low
+Punjab,585,108,20,457,01-05-2020 18:12,PB,Very Low
+Haryana,357,241,4,112,01-05-2020 19:22,HR,Very Low
+Odisha,149,55,1,93,01-05-2020 17:42,OR,Very Low
+Jharkhand,113,21,3,89,01-05-2020 21:32,JH,Very Low
+Chandigarh,88,18,0,70,01-05-2020 17:28,CH,Very Low
+Uttarakhand,57,37,1,19,01-05-2020 21:40,UT,Very Low
+Himachal Pradesh,40,30,2,5,01-05-2020 23:02,HP,Very Low
+Assam,43,33,1,9,01-05-2020 17:51,AS,Very Low
+Chhattisgarh,43,36,0,7,01-05-2020 20:12,CT,Very Low
+Andaman and Nicobar Islands,33,16,0,17,30-04-2020 11:32,AN,Very Low
+Ladakh,22,17,0,5,29-04-2020 21:12,LA,Very Low
+Meghalaya,12,10,1,1,01-05-2020 16:02,ML,Very Low
+Puducherry,8,5,0,3,27-04-2020 23:21,PY,Very Low
+Goa,7,7,0,0,19-04-2020 17:04,GA,Very Low
+Manipur,2,2,0,0,20-04-2020 10:04,MN,Very Low
+Tripura,2,2,0,0,23-04-2020 20:47,TR,Very Low
+Mizoram,1,0,0,1,26-03-2020 07:19,MZ,Very Low
+Arunachal Pradesh,1,1,0,0,16-04-2020 19:33,AR,Very Low
+Nagaland,0,0,0,0,20-04-2020 08:45,NL,Very Low
+Dadra and Nagar Haveli,0,0,0,0,17-04-2020 15:03,DN,Very Low
+Daman and Diu,0,0,0,0,26-03-2020 07:19,DD,Very Low
+Lakshadweep,0,0,0,0,26-03-2020 07:19,LD,Very Low
+Sikkim,0,0,0,0,26-03-2020 07:19,SK,Very Low
